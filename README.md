@@ -1,4 +1,4 @@
-# coal-exploratory
+# coal-production-prediction
 A first look at coal data
 
 ## Abstract
